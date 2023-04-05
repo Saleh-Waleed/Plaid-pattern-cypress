@@ -1,0 +1,11 @@
+1- npm install cypress --save-dev
+
+2- npx cypress open
+
+3- If cypress doesn't open, run "npm ci" to set the automated environment.
+
+4- Now, again, run "npm install cypress open --save-dev
+
+5- run "npx cypress open" to open the cypress, select "E22 testing" and select "chrome". 
+
+6- Now, run the test cases.
